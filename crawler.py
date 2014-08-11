@@ -10,9 +10,7 @@ headers = {
           'Accept-Encoding': ' gzip,deflate,sdch',
           'Accept-Language': 'ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4',
           'Content-type': 'text/html; charset=EUC-KR',
-          'Accept' : 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-          'Referer' : 'http://www.igloosec.co.kr',
-          'Cookie': 'RMID=dc4c11fd5188e770; %BA%CE%B5%BF%BB%EA114%5F%BA%ED%B7%CE%B1%D7%C1%A4%BA%B8=%BA%ED%B7%CE%B1%D7%BE%C6%C0%CC%B5%F0=favicon%2Eico; ASPSESSIONIDAQQDSDAD=DNHDDBMDNEHECHFFNMOAJFHF'
+          'Accept' : 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
 }
 
  
